@@ -1,5 +1,5 @@
 {
-  "intro-text": [
+  "intro_text": [
     "You are a middle-aged, successful lawyer, a father of two, married to a beautiful wife, living a stable, luxurious life.",
     "Despite everything going well in your life, you've been bored with it for a few years.",
     "\"There's nothing that makes me feel alive anymore!\", you tell to yourself.",
@@ -16,7 +16,7 @@
     "Whoever the figure is, wherever you are, you have to get out of here quickly. You don't know what's with the stench, but you don't want to be the cause of it."
   ],
   "scenes": {
-    "cell-room": {
+    "cell_room": {
       "name": "cell room",
       "description": [
         "It is very dark, you can barely see anything.",
@@ -25,7 +25,7 @@
         "There is a strong stench of spoiled meat in the air. You try your best not to throw up."
       ],
       "navigation": {
-        "butcher-room": [
+        "butcher_room": [
           "door"
         ]
       },
