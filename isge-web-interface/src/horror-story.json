@@ -30,7 +30,7 @@
         ]
       },
       "objects": [
-        ""
+        "Foo"
       ]
     },
     "2": {
@@ -39,5 +39,15 @@
     "3": {
 
     }
-  }
+  },
+  "saves": [
+    "TODO - separate saves into another JSON",
+    {
+      "name": "Foo",
+      "state:": {
+        "foo": "NOTE - state of the game"
+      },
+      "history": ["NOTE - history of actions taken by the player"]
+    }
+  ]
 }
