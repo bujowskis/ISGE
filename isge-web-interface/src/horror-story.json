@@ -1,0 +1,43 @@
+{
+  "intro-text": [
+    "You are a middle-aged, successful lawyer, a father of two, married to a beautiful wife, living a stable, luxurious life.",
+    "Despite everything going well in your life, you've been bored with it for a few years.",
+    "\"There's nothing that makes me feel alive anymore!\", you tell to yourself.",
+    "With hopes to resolve the issue, you've started going solo camping one weekend each month.",
+    "You've been taking the trips for the last 11 months and they seem to have helped. Being in the wild, spending nights in the woods, all the wildlife, the noises, the atmosphere - that's just what you needed.",
+    "The 12th trip has to be a special one. It is a whole year you've been doing this after all.",
+    "You decide to change things up and go to a place you haven't been to yet - The Dark Woods of Saint Michael.",
+    "It is said, about 20 years ago, a group of campers went to The Woods and haven't come back. Despite 8 months investigation and extensive search, their bodies have never been found, and they were pronounced dead.",
+    "You're not buying into that. Besides, it's been 20 years, and you find the idea even more thrilling because of this mystery.",
+    "After packing up, hugging the kids and giving a big kiss to your wife, you set out. The weather is good and you feel enthusiastic about the whole thing.",
+    "Once you reach the destination, you leave your car and go on deep into the woods. You set up your tent, gather firewood and prepare for the night.",
+    "While lighting the fire, you hear a noise behind you and turn around to find a big figure in a leather apron, holding a baseball bat. You bring yourself to scream and raise your arms to block the incoming strike, but it's too late - you get hit in the head and drop unconscious.",
+    "The next time you wake up, you find yourself in a dark room, closed behind and cuffed to the metal bars. You can smell stench of spoiled meat in the air.",
+    "Whoever the figure is, wherever you are, you have to get out of here quickly. You don't know what's with the stench, but you don't want to be the cause of it."
+  ],
+  "scenes": {
+    "cell-room": {
+      "name": "cell room",
+      "description": [
+        "It is very dark, you can barely see anything.",
+        "The room is small. There are two cells with metal bars going all the way up to the ceiling. There is blood all over the walls. Shapes of many stains indicate it must have been a human hand. You can hear broken fingernails crumbling under your feet.",
+        "A cold breeze is coming from under the only door that leads to the room.",
+        "There is a strong stench of spoiled meat in the air. You try your best not to throw up."
+      ],
+      "navigation": {
+        "butcher-room": [
+          "door"
+        ]
+      },
+      "objects": [
+        ""
+      ]
+    },
+    "2": {
+
+    },
+    "3": {
+
+    }
+  }
+}
