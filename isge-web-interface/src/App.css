@@ -1,3 +1,18 @@
 .App {
-  text-align: center;
+  display: flex;
+  /*width: 400px;*/
+  margin: auto;
+  padding: 2px;
+  flex-direction: column;
+}
+
+.display {
+  display: flex;
+  width: 100%;
+}
+
+.display-scrollableHistory {
+  display: flex;
+  height: 600px;
+  overflow-y: auto;
 }
