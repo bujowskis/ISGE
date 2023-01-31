@@ -5,6 +5,9 @@
 # What is it?
 **universal**, **easy-to-use** evironment to provide **freedom** to **quickly** create various kinds of storytelling Games
 
+# NOTE
+Given my current workload, I won't be able to pursue the project in the near future. If you find the idea interesting, I'm open to talks and collaboration. I can provide you with the whole cocneptual design to implement, or talk out possible changes in approach. Contact me by email: s.bujowski@gmail.com
+
 # The way to progress
 Text-based -> GUI
 
